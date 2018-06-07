@@ -1,0 +1,17 @@
+{
+  "name": "hangman_api",
+  "version": "1.0.0",
+  "description": "API for Hangman project for Mobile application course in FMI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobile",
+    "application",
+    "hangman",
+    "api"
+  ],
+  "author": "Bozhidar Dimitrov, Vasil Nikolov",
+  "license": "ISC"
+}
